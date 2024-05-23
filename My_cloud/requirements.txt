@@ -1,0 +1,4 @@
+Flask==2.0.2
+boto3==1.18.66
+pypandoc==1.6.3
+Werkzeug==2.0.2
